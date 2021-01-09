@@ -1,0 +1,8 @@
+D:\Projects\CoroutineFoundation\bin\Debug\netstandard2.0\CoroutineFoundation.deps.json
+D:\Projects\CoroutineFoundation\bin\Debug\netstandard2.0\CoroutineFoundation.dll
+D:\Projects\CoroutineFoundation\bin\Debug\netstandard2.0\CoroutineFoundation.pdb
+D:\Projects\CoroutineFoundation\obj\Debug\netstandard2.0\CoroutineFoundation.csprojAssemblyReference.cache
+D:\Projects\CoroutineFoundation\obj\Debug\netstandard2.0\CoroutineFoundation.AssemblyInfoInputs.cache
+D:\Projects\CoroutineFoundation\obj\Debug\netstandard2.0\CoroutineFoundation.AssemblyInfo.cs
+D:\Projects\CoroutineFoundation\obj\Debug\netstandard2.0\CoroutineFoundation.dll
+D:\Projects\CoroutineFoundation\obj\Debug\netstandard2.0\CoroutineFoundation.pdb
